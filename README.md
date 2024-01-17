@@ -11,7 +11,7 @@ Since the actual pulse shapes used by the vendors in implementing the MESE seque
 
 The functions used to generate the excitation and refocusing pulses and respective slice profiles are provided and make use of the RF Pulse Design toolbox created by John Pauly (https://rsl.stanford.edu/research/software.html) 
 
-## RAW DATA ##
+## DATA ##
 The raw MESE data (in NIfTI format) and processed data can be downloaded from Zenodo (https://doi.org/10.5281/zenodo.10520542) 
 
 ## Alternative T2 fitting methods ##
