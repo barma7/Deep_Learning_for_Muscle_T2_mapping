@@ -1,6 +1,9 @@
 # Deep_Learning_for_Muscle_T2_mapping
 The repository provides the source code for "A Deep Learning Approach for Fast Muscle Water T2 Mapping with Subject Specific Fat T2 Calibration from Multi-Spin-Echo Acquisitions"
 
+Full citation:
+Barbieri, M., Hooijmans, M.T., Moulin, K. et al. A deep learning approach for fast muscle water T2 mapping with subject specific fat T2 calibration from multi-spin-echo acquisitions. Sci Rep 14, 8253 (2024). https://doi.org/10.1038/s41598-024-58812-2
+
 ## Deep Learning Application ##
 The deep learning application has been developed in TensorFlow.
 TensorFlow, Numpy, and Scipy are required to run the deep learning application.
